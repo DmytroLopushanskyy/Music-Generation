@@ -6,8 +6,8 @@
 
 ### Implemented models:
 
-1. Vanilla RNN
+1. RNN GRU
 2. LSTM
 3. Two-part generation CNN model: Melody CNN and Conditional CNN for each instrument
-4. Transformers (in progress)
+4. Variational Auto-Encoder
 
